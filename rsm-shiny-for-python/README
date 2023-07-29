@@ -1,0 +1,7 @@
+## Shiny for python
+
+To run the sample app from the docker container navigate to the directory with the app.py file in a terminal in Jupyter and then run the code below.
+
+```
+shiny run --host 0.0.0.0
+```
