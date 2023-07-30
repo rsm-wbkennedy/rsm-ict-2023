@@ -2,7 +2,7 @@
 
 This assignment provides some practice in how to complete individual assignments using Git and GitHub. First, fork the assignment from the link below:
 
-`https://github.com:vnijs/rsm-individual-assignment-practice.git`
+`https://github.com:rady-msba/rsm-individual-assignment-practice.git`
 
 Next, clone the repo to your laptop using VS Code:
 
