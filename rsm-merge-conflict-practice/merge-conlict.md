@@ -1,6 +1,6 @@
 ## Generate (and fix) a merge conflict
 
-Your name: _____ Date: _____
+Your name: Warren Date: _____
 
 
 This assignment provides some practice in how to create and resolve merge conflicts. First, fork the assignment from the link below:
